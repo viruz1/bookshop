@@ -77,7 +77,6 @@ public class PurchaseServiceImpl implements PurchaseService {
 
         headers.add("Authorization", "Basic " + purchaseToken);
 
-        System.out.println(purchaseRequestDTO.toString());
         HttpEntity<PurchaseRequestDTO> entity = new HttpEntity<>(purchaseRequestDTO, headers);
 
 
