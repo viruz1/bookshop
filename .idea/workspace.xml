@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efcbff98-a163-44f4-921b-229cab0b8061" name="Default Changelist" comment="Read Me with Curl Commands">
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/zss/bookshop/service/Impl/PurchaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/zss/bookshop/service/Impl/PurchaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1629330345215" duration="393000" />
       <workItem from="1629330792212" duration="278000" />
       <workItem from="1629331150047" duration="96000" />
-      <workItem from="1629331600724" duration="13890000" />
+      <workItem from="1629331600724" duration="13948000" />
     </task>
     <task id="LOCAL-00001" summary="Read Me with Curl Commands">
       <created>1629345230451</created>
